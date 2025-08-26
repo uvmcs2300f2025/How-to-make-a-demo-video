@@ -13,9 +13,9 @@ Once you are finished your project and want to make a demo video, follow these s
 1. Click on the three dots "More" button in the upper menu, choose "Record and transcribe", and "Start recording"
 1. It will confirm the language is English with a popup and will start recording.
 1. Go to your program and do the demo runs:
-  * Make sure you run your program multiple times and demonstrate the input validation by entering invalid and valid inputs. 
-  * It is helpful but not necessary to record voiceover to describe your program.
-  * It is helpful but not necessary to show your code and talk through your source files.
+    * Make sure you run your program multiple times and demonstrate the input validation by entering invalid and valid inputs. 
+    * It is helpful but not necessary to record voiceover to describe your program.
+    * It is helpful but not necessary to show your code and talk through your source files.
 1. Once you are finished with the demo runs, exiting the meeting will stop the recording.
 1. Wait a few minutes for the recording to save.
 1. In MS Teams, go to the Chat tab (left side).
